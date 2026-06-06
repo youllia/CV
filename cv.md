@@ -1,38 +1,33 @@
-# Yulia Tashkaeva
-## Junior JS Developer
+# Iuliia Tashkaeva
+## Fullstack Software Developer
 
-
-### Contact Info
-* [888youll@gmail.com](mailto:888youll@gmail.com)
-* +380500719035
 
 ### Goals
-__My goal is to become a Senior Full Stack developer in the next 3 years.__
-My passion is coding. So I am very capable and quick to learn.
+__I am currently looking for a Software Developer internship in Dortmund.__
 
 
 ### Skills and experience
-1. JS
-1. HTML
-1. CSS
-1. Git
-1. UX
-1. UI
-1. IT Project Management
-1. Team Leading
+1. C#
+2. ASP.NET Core MVC
+3. Linux (LPIC-1 Sertificated)
+4. MySQL
+5. JS
+6. HTML
+7. CSS
+8. UX
+9. UI
 
-### Latest code examples
+
+### Codewars code examples
 [codewars](https://www.codewars.com/users/youllia/completed_solutions)
 
-### Projects from courses
-[jsfiddle](https://jsfiddle.net/youll9/tn234xy7/2072/)
 
 ### Education
+* BitLC - Business IT Learning Center, Dortmund (Retraining)
 * Online learning RS School
 * Self-directed online training for the course code.mu
 * Programming books
 
-### English skills
-I am learning English on my own.
+My passion is coding. So I am very capable and quick to learn.
 
 Thank you for attention :slightly_smiling_face:
