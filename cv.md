@@ -7,15 +7,14 @@ __I am currently looking for a Software Developer internship in Dortmund.__
 
 
 ### Skills and experience
-1. C#
-2. ASP.NET Core MVC
-3. Linux (LPIC-1 Sertificated)
+1. Linux (LPIC-1 Sertificated)
+2. C#/.NET
+3. ASP.NET Core MVC
 4. MySQL
-5. JS
-6. HTML
-7. CSS
-8. UX
-9. UI
+5. JS/TS
+6. Angular
+7. HTML/CSS
+9. UX/UI
 
 
 ### Codewars code examples
