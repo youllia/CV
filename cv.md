@@ -3,7 +3,7 @@
 
 
 ### Goals
-__I am currently looking for a Software Developer internship in Dortmund.__
+__I am currently looking for a Software Developer internship in Dortmund & NRW.__
 
 
 ### Skills and experience
